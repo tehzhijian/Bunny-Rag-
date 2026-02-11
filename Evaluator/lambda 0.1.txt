@@ -1,0 +1,42 @@
+[
+    {
+        "query": "What happens when the circumcenter is on the side of the triangle?",
+        "context": "a triangle changes shape, triangles are similar, a triangle will not change shape, tessellated triangles, the 'circles' in taxicab geometry, squared integer, minor-closed property, convincing evidence of Brownian motion, inhomogeneous surface concentrations"
+    },
+    {
+        "query": "how many side of squares",
+        "context": "construction of a square with a given side, squares tilted at 45° to the coordinate axes, a square is a regular polygon, formula for the area of a square as the second power of its side length, specifying the lengths of all three sides, minor-closed property, squared integer, convincing evidence of Brownian motion, Marangoni forces"
+    },
+    {
+        "query": "what is the circumference of circle",
+        "context": "size of the circle, ratio of s to radius r or circumference C, length of the arc that subtends the angle at the centre of a unit circle, shapes that would be Euclidean squares become the 'circles, angle's size θ, squared integer, minor-closed property, convincing evidence of Brownian motion, Marangoni forces"
+    },
+    {
+        "query": "How is the area of a square related to its side length?",
+        "context": "formula for the area of a square as the second power of its side length, a square is a regular polygon, area can be expressed using sides B and C and angle, construction of a square with a given side, side length a, squared integer, minor-closed property, convincing evidence of Brownian motion, atoms and molecules exist"
+    },
+    {
+        "query": "What conditions make two triangles similar?",
+        "context": "triangles are similar, a triangle changes shape, one pair of corresponding sides of two triangles are in the same proportion as another pair of corresponding sides, and their included angles have the same measure, tessellated triangles, a triangle will not change shape, squared integer, minor-closed property, convincing evidence of Brownian motion, inhomogeneous surface concentrations"
+    },
+    {
+        "query": "What characterizes a tangential quadrilateral?",
+        "context": "the quadrilateral is a tangential quadrilateral, structural quadrilaterals, orthodiagonal quadrilateral, internal angle bisectors of a convex quadrilateral are concurrent, splitting the quadrilateral into two rigid triangles, minor-closed property, squared integer, convincing evidence of Brownian motion, Marangoni forces"
+    },
+    {
+        "query": "What happens to a graph when a cut-set is removed?",
+        "context": "removal of a cut-set, disconnection of graph, cut whose cut-set has minimum total weight, max-flow min-cut theorem, vertex removal, squared integer, minor-closed property, convincing evidence of Brownian motion, inhomogeneous surface concentrations"
+    },
+    {
+        "query": "How is Brownian motion related to the diffusion constant?",
+        "context": "diffusion constant, analog of Brownian motion, Brownian motion in a massive body, true Brownian dynamics, convincing evidence of Brownian motion, squared integer, minor-closed property, inhomogeneous surface concentrations"
+    },
+    {
+        "query": "Why do soap films form minimal area surfaces?",
+        "context": "the soap film to thin at the top, the liquid tends to drain in a vertical soap film, unstable soap film, hole in soap film, soap film does not last forever, squared integer, minor-closed property, convincing evidence of Brownian motion"
+    },
+    {
+        "query": "What is the relationship between snarks and the four-color theorem?",
+        "context": "four-color theorem proven, all snarks shown to be non-planar, violation of snark definition, required for snarks, prevents 3-edge-coloring, squared integer, minor-closed property, convincing evidence of Brownian motion, Marangoni forces"
+    }
+]

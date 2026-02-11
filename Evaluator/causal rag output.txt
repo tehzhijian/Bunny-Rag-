@@ -1,0 +1,43 @@
+
+[
+    {
+        "query": "What happens when the circumcenter is on the side of the triangle?",
+        "context": "bent or extended or broken sides → a triangle changes shape, broken joints → a triangle changes shape, one pair of corresponding sides of two triangles are in the same proportion as another pair of corresponding sides, and their included angles have the same measure → triangles are similar"
+    },
+    {
+        "query": "how many side of squares",
+        "context": "formula for the area of a square as the second power of its side length → use of the term squaring to mean raising any number to the second power, a square is a regular polygon → it has the least perimeter for a given area, squares tilted at 45° to the coordinate axes → the 'circles' in taxicab geometry"
+    },
+    {
+        "query": "what is the circumference of circle",
+        "context": "ratio of s to radius r or circumference C → angle's size θ, length of the arc that subtends the angle at the centre of a unit circle → direct physical measurement of angles, length s → angle's size θ"
+    },
+    {
+        "query": "How is the area of a square related to its side length?",
+        "context": "formula for the area of a square as the second power of its side length → use of the term squaring to mean raising any number to the second power, a square is a regular polygon → it has the least perimeter for a given area, parallelogram being a rhombus → area can be expressed using sides B and C and angle"
+    },
+    {
+        "query": "What conditions make two triangles similar?",
+        "context": "bent or extended or broken sides → a triangle changes shape, one pair of corresponding sides of two triangles are in the same proportion as another pair of corresponding sides, and their included angles have the same measure → triangles are similar, triangles are similar → violation of snark definition"
+    },
+    {
+        "query": "What characterizes a tangential quadrilateral?",
+        "context": "concyclic intersection points of adjacent angle bisectors → the quadrilateral is a tangential quadrilateral, internal angle bisectors of a convex quadrilateral are concurrent → the quadrilateral is a tangential quadrilateral, orthodiagonal quadrilateral → largest area"
+    },
+    {
+        "query": "What happens to a graph when a cut-set is removed?",
+        "context": "removal of a cut-set → disconnection of graph, vertex removal → disconnection of graph, cut whose cut-set has minimum total weight → max-flow min-cut theorem"
+    },
+    {
+        "query": "How is Brownian motion related to the diffusion constant?",
+        "context": "physically measurable quantities → diffusion constant, gravitational forces from surrounding stars → Brownian motion in a massive body, diffusion constant → mean squared displacement of a particle"
+    },
+    {
+        "query": "Why do soap films form minimal area surfaces?",
+        "context": "gravity → the liquid tends to drain in a vertical soap film, hole in soap film → rapid opening, liquid drainage → the soap film to thin at the top"
+    },
+    {
+        "query": "What is the relationship between snarks and the four-color theorem?",
+        "context": "triangles are similar → violation of snark definition, four-color theorem proven → all snarks shown to be non-planar"
+    }
+]
